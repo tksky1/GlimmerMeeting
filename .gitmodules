@@ -1,0 +1,6 @@
+[submodule "backend-go"]
+	path = backend-go
+	url = https://github.com/tksky1/GlimmerMeeting-go
+[submodule "backend-java-desperated"]
+	path = backend-java-desperated
+	url = https://github.com/tksky1/GlimmerMeeting-java
